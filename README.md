@@ -16,4 +16,4 @@ Exercises:
 > - PI Estimation Using Monte Carlo Technique using OpenMP and MPI.
 > - Multithreaded Probability Estimation using OpenMP and MPI.
 > - Multithreaded Random Restart Hill Climbing using OpenMP and MPI.
-> - Matrix Multiplication using Java Multithreading and MPI.
+> - Matrix Multiplication using OpenMP and MPI.
