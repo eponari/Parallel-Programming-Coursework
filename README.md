@@ -1,4 +1,4 @@
-# Operating-Systems-Coursework
+# Parallel-Programming-Coursework
 
 This repository holds coursework from Operating Systems Course done by me. Technologies used are Java Multithreading, POSIX threads, OpenMP Interface and MPI.
 
