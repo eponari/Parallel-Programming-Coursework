@@ -1,25 +1,19 @@
 # Operating-Systems-Coursework
 
-This repository holds coursework from Operating Systems Course done by me. They consist of Bash files and Java Files.
+This repository holds coursework from Operating Systems Course done by me. Technologies used are Java Multithreading, POSIX threads, OpenMP Interface and MPI.
 
 Exercises:
 
 - Homework 1
 
-> - Greatest Common Divisor Finder.
-> - Decision(if/else) Game.
-> - Guess The Number.
-> - Get Information about a file.
-> - Print Seperatly Files and Directories.
-> - Log Rotation.
-> - Copy Limited Count of Lines.
-> - Print Common Files from Two Directories.
-> - Directory Lookup.
-> - Disk Usage of a Directory Seperated by File Types.
+> - Multithreaded Search in Files using Java Multithreading and POSIX Threads.
+> - Multithreaded Probability Estimation using Java Multithreading and POSIX Threads.
+> - Multithreaded Random Restart Hill Climbing using Java Multithreading and POSIX Threads.
+> - Multithreaded client-server application using Java Multithreading.
 
 - Homework 2
 
-> - Round Robin Task Scheduling Simulation.
-> - Page Replacement Policies Simulation.
-> - Contiguous Memory Allocation Simulation.
-> - Print Sorted Files from Two Directories.
+> - PI Estimation Using Monte Carlo Technique using OpenMP and MPI.
+> - Multithreaded Probability Estimation using OpenMP and MPI.
+> - Multithreaded Random Restart Hill Climbing using OpenMP and MPI.
+> - Matrix Multiplication using Java Multithreading and MPI.
